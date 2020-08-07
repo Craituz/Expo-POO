@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Observador1\Observador1\bin\Debug\Observador1.exe.config
+C:\Users\Usuario\source\repos\Observador1\Observador1\bin\Debug\Observador1.exe
+C:\Users\Usuario\source\repos\Observador1\Observador1\bin\Debug\Observador1.pdb
+C:\Users\Usuario\source\repos\Observador1\Observador1\obj\Debug\Observador1.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Observador1\Observador1\obj\Debug\Observador1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Observador1\Observador1\obj\Debug\Observador1.exe
+C:\Users\Usuario\source\repos\Observador1\Observador1\obj\Debug\Observador1.pdb
